@@ -1,0 +1,12 @@
+<!-- Define your plugin -->
+<plugin>
+    <name>SparkNotify</name>
+    <version>1.0</version>
+    <author>Clint "Intern" Mullins</author>
+    <homePage>www.classnotecomics.com</homePage>
+    <email>cmullins@sonalysts.com</email>
+    <description>Spark Plugin Test</description>
+    <class>org.jivesoftware.spark.examples.SparkNotify</class>
+    <minSparkVersion>2.0.0</minSparkVersion>
+</plugin>
+

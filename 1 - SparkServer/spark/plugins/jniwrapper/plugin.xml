@@ -1,0 +1,12 @@
+<!-- Define your plugins -->
+<plugin>
+    <name>JNIWrapper</name>
+    <version>1.0</version>
+    <author>Derek DeMoro</author>
+    <homePage>http://www.jivesoftware.org</homePage>
+    <email>derek@jivesoftware.com</email>
+    <description>Adds the ability to control native windows and handle mouse and keyboard actions.</description>
+    <class>com.jivesoftware.plugin.jniwrapper.JNIWrapperPlugin</class>
+    <minSparkVersion>1.1.9.1</minSparkVersion>
+</plugin>
+

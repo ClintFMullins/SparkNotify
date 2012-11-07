@@ -1,0 +1,1 @@
+This is a sample file. It could alert when the build is down, or when really anything fails as long as the alert java file is called.
